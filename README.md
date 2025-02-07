@@ -1,6 +1,6 @@
 # Travel App
 
-## 📌 Persyaratan
+## 📌 Dokumentasi
 Pastikan komputer Anda memiliki:
 - PHP 8.2 atau lebih baru
 - Composer
