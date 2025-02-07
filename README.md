@@ -1,11 +1,10 @@
-# Travel Booking API
+# Travel App
 
 ## 📌 Persyaratan
 Pastikan komputer Anda memiliki:
 - PHP 8.2 atau lebih baru
 - Composer
 - PostgreSQL
-- Node.js & npm (jika menggunakan frontend tambahan)
 
 ## 🛠️ Instalasi
 
