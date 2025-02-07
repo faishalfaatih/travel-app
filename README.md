@@ -11,7 +11,7 @@ Pastikan komputer Anda memiliki:
 ### 1. Clone Repository
 ```sh
 git clone https://github.com/faishalfaatih/travel-app.git
-cd travel-booking-api
+cd travel-app
 ```
 
 ### 2. Install Dependencies
